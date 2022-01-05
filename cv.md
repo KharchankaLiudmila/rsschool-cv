@@ -34,5 +34,15 @@ Faculty of Pediatrics
 Qualification: doctor
 #### 2017
  Second medical qualification category
- #### 2020
+ #### 2021
  First medical qualification category
+ ___
+## _Courses:_
+ JavaScript/Front-end Stage 0 (in progress)
+ ___
+## _Languages skills:_
++ Russian - Native
++ Belarussian - Native
++ Ukrainian - Upper-intermediate
++ English - Intermediate
++ Polish - Intermediate
