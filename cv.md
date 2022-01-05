@@ -1,6 +1,5 @@
 
-![photo]( https://drive.google.com/file/d/1S_FtZJKtazSajuSWeDTmzfzBfJ64JDGi/view) 
-
+![photo](https://static.tildacdn.com/tild6533-3730-4830-b931-393463653334/Liuda-2.png) 
 # ___Liudmila Kharchanka___
 ___
 ## _Contacts:_
