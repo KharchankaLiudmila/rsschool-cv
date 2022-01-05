@@ -27,3 +27,11 @@ ___
 
 ___
 ## _Education_
+#### 2008-2014 
+ GRODNO STATE MEDICAL UNIVERSITY
+Faculty of Pediatrics
+Qualification: doctor
+#### 2017
+ Second medical qualification category
+ #### 2020
+ First medical qualification category
