@@ -1,5 +1,5 @@
 
-![photo](https://drive.google.com/file/d/1S_FtZJKtazSajuSWeDTmzfzBfJ64JDGi/view/. gjpg "I am") 
+![photo]( https://drive.google.com/file/d/1S_FtZJKtazSajuSWeDTmzfzBfJ64JDGi/view) 
 
 # ___Liudmila Kharchanka___
 ___
