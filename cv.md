@@ -3,7 +3,8 @@ ___
 ## _Contacts:_
 + Discord: KharchankaLiudmila#5811
 + Location: Brest,Belarus
-+ Email: korobko.mila@yandex.ru
++ E-mail: korobko.mila@yandex.ru
++ EPAM E-mail: korobko.mila@icloud.com 
 + Phone:+375(29)8814903
 + [GitHub](https://github.com/KharchankaLiudmila)
 ___
