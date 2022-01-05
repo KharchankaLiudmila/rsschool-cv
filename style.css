@@ -1,0 +1,21 @@
+p,h1,h2,ul{
+   letter-spacing: 2px;
+   line-height: 20px;
+   text-align: justify;
+}
+h1 {
+   
+   text-shadow: grey 1px 1px 2px ;
+   text-transform: capitalize;
+   text-align: center;
+}
+h1 {
+   color:rgb(88, 12, 12);
+}
+body {
+   background-color: rgb(197, 196, 194);
+
+}
+h2 {
+   color: rgb(12, 34, 36);
+}
