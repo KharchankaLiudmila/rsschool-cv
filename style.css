@@ -9,18 +9,15 @@ h1 {
    text-transform: capitalize;
    text-align: center;
 }
-h1 {
+h1, h2 {
    color:rgb(88, 12, 12);
 }
 body {
    background-color: rgb(197, 196, 194);
 
 }
-h2 {
-   color: rgb(12, 34, 36);
-}
 nav {
-   background:rgb(126, 113, 113);
+   background:rgb(126, 113,113 );
    height: 50px;
    line-height: 50px;
 }
