@@ -19,3 +19,34 @@ body {
 h2 {
    color: rgb(12, 34, 36);
 }
+nav {
+   background:rgb(126, 113, 113);
+   height: 50px;
+   line-height: 50px;
+}
+menu {
+   list-style: none;
+   
+}
+menu li {
+   display: inline-block;
+   padding: 0 85px;
+   height: 50px;
+   border-right: solid 2px rgb(22, 21, 21);
+}
+menu li:last-child {
+   border-right: 0px;
+}
+menu li:hover {
+background: rgb(119, 98, 98);
+}
+menu li a {
+   display: inline-block;
+   height: 50px;
+   color: #000;
+   text-decoration: ;
+}
+menu li a:hover {
+   color: rgb(44, 3, 3);
+   text-decoration: underline;
+}
