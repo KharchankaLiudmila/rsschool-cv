@@ -1,0 +1,49 @@
+p,h1,h2,ul{
+   letter-spacing: 2px;
+   line-height: 20px;
+   text-align: justify;
+}
+h1 {
+   
+   text-shadow: grey 1px 1px 2px ;
+   text-transform: capitalize;
+   text-align: center;
+}
+h1, h2 {
+   color:rgb(88, 12, 12);
+}
+body {
+   background-color: rgb(197, 196, 194);
+
+}
+nav {
+   background:rgb(126, 113,113 );
+   height: 50px;
+   line-height: 50px;
+}
+menu {
+   list-style: none;
+   
+}
+menu li {
+   display: inline-block;
+   padding: 0 85px;
+   height: 50px;
+   border-right: solid 2px rgb(22, 21, 21);
+}
+menu li:last-child {
+   border-right: 0px;
+}
+menu li:hover {
+background: rgb(119, 98, 98);
+}
+menu li a {
+   display: inline-block;
+   height: 50px;
+   color: #000;
+   text-decoration: ;
+}
+menu li a:hover {
+   color: rgb(44, 3, 3);
+   text-decoration: underline;
+}
