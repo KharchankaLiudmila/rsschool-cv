@@ -1,3 +1,3 @@
 # rsschool-cv
 My CV
-https://github.com/KharchankaLiudmila/rsschool-cv
+https://github.com/KharchankaLiudmila/rsschool-cv.git
